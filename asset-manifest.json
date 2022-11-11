@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/logicweb/static/css/main.2a3877fe.css",
-    "main.js": "/logicweb/static/js/main.90f62db7.js",
+    "main.js": "/logicweb/static/js/main.f4f9780d.js",
     "index.html": "/logicweb/index.html",
     "main.2a3877fe.css.map": "/logicweb/static/css/main.2a3877fe.css.map",
-    "main.90f62db7.js.map": "/logicweb/static/js/main.90f62db7.js.map"
+    "main.f4f9780d.js.map": "/logicweb/static/js/main.f4f9780d.js.map"
   },
   "entrypoints": [
     "static/css/main.2a3877fe.css",
-    "static/js/main.90f62db7.js"
+    "static/js/main.f4f9780d.js"
   ]
 }
