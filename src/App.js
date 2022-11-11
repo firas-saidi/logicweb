@@ -56,7 +56,7 @@ function App() {
  
   return (
     <>
-    <Router basename="/logicweb">
+    <Router basename='{/logicweb}'>
       <Header CartItem={CartItem} />
       <Switch>
         <Route path='/' exact>
